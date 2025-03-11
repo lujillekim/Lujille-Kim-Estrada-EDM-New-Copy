@@ -9,4 +9,4 @@ This will serve as my portfolio in Enterprise Data Management, and it will conta
 
 ## My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Task%201/README.md)
-- Midterm Lab Task 2: 
+- Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query]
