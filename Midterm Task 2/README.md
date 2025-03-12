@@ -17,7 +17,11 @@ For this task, we are given a flat data from Excel, and we are task to perform D
 ![Sample Output](images/Uncleaned(2).jpg)
 
 ## Step 3 Here's the screenshot of my output after I started data cleaning using Power Query (See screenshot) 
-![Sample Output]()
+![Sample Output](images/After(1).png)
+![Sample Output](images/After(2).png)
+![Sample Output](images/After(3).png)
+![Sample Output](images/After(4).png)
+![Sample Output](images/After(5).png)
 
 ## Step 4 Here's the screenshot of my group tables using Power Query (See screenshot)
 ![Sample Output](images/SalBySizeRoleTyperef.png)
