@@ -12,7 +12,7 @@ For this task, we are given a flat data from Excel (See raw file), and we are ta
 -Filter New Column
 -Handle negative values
 
-## Step 2 Here'sthe screenshot of my output before I started data cleaning using Power Query (See screenshot)
+## Step 2 Here's the screenshot of my output before I started data cleaning using Power Query (See screenshot)
 ![Sample Output](images/Uncleaned(1).jpg)
 ![Sample Output](images/Uncleaned(2).jpg)
 
