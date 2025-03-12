@@ -2,15 +2,15 @@
 For this task, we are given a flat data from Excel (See raw file), and we are task to perform Data Cleaning and Preparation using Power Query.
 
 ## Step 1 Data Cleaning Process
--Load the raw file
--Duplicate the raw data
--Salary Estimate Column
--Create 2 New Columns (From the Salary Estimate) Min Sal and Max Sal
--ADD COLUMN - Role Type
--SPLIT COLUMNS by Delimeter
--Select Location column
--Filter New Column
--Handle negative values
+- Load the raw file
+- Duplicate the raw data
+- Salary Estimate Column
+- Create 2 New Columns (From the Salary Estimate) Min Sal and Max Sal
+- ADD COLUMN - Role Type
+- SPLIT COLUMNS by Delimeter
+- Select Location column
+- Filter New Column
+- Handle negative values
 
 ## Step 2 Here's the screenshot of my output before I started data cleaning using Power Query (See screenshot)
 ![Sample Output](images/Uncleaned(1).jpg)
