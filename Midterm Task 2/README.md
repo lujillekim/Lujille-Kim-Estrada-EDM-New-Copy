@@ -24,12 +24,12 @@ For this task, we are given a flat data from Excel, and we are task to perform D
 ![Sample Output](images/After(5).png)
 
 ## Step 4 Here's the screenshot of my group tables using Power Query (See screenshot)
-![Sample Output](images/SalBySizeRoleTyperef.png)
-![Sample Output](images/SalByRoleTypedup.png)
-![Sample Output](images/SalBySizeref.png)
-![Sample Output](images/SalByStateref(1).png)
-![Sample Output](images/SalByStateref(2).png)
-![Sample Output](images/SalByStateref(3).png)
+![Sample Output](images/SalByRoleTypeDup.png)
+![Sample Output](images/SalByRoleSizeRef.png)
+![Sample Output](images/SalByStateRef(1).png)
+![Sample Output](images/SalByStateRef(2).png)
+![Sample Output](images/SalByStateRef(3).png)
+![Sample Output](images/SalBySizeRoleTypeDup.png)
 
 ## Here's the screenshot of my Query Dependencies (See screenshot)
 ![Sample Output](images/QueryDependencies.png)
