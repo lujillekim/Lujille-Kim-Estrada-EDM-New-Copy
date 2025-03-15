@@ -4,7 +4,7 @@ title: My Portfolio
 ---
 
 # 👋 Welcome to My Portfolio  
-Hi! I'm **Lujille Kim P. Estrada** This is where I showcase my work and projects.
+Hi! I'm **Lujille Kim P. Estrada**. This is where I showcase my work and projects.
 
 ---
 
