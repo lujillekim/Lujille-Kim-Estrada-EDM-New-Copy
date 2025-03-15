@@ -21,7 +21,7 @@ For this task I worked on organizing and showing data using Pivot Table and Dash
 - Apply your own design and colour settings to make your DASHBOARD look more appealing and presentable.
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/job.PNG)
+![Sample Output](images/before.png)
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
 ![Sample Output](images/pivot.PNG)
