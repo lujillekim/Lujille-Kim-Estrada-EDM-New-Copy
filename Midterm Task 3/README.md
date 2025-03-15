@@ -2,7 +2,7 @@
 For this task I worked on organizing and showing data using Pivot Table and Dashboard in Excel. 
 ## Step 1: Prepared the Data
 - Sal By Role, Sal By State, Sal by Size
-- Create another tanle for JobTitle per sector
+- Create another table for JobTitle per sector
 
 ## Step 2: Create and Design the Dashboard with the following:
 - The state with the most Number of Data Science.
