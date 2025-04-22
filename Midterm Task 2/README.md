@@ -1,4 +1,4 @@
-# Midterm Lab Task 2 Data Cleaning and Preparation using Power Query
+# Midterm Lab Task 2: Data Cleaning and Preparation using Power Query
 For this task, we are given a flat data from Excel, and we are task to perform Data Cleaning and Preparation using Power Query.
 
 ## Step 1 Data Cleaning Process
