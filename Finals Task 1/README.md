@@ -1,4 +1,4 @@
-# Finals Task 2: Transform ER into Relational Tables
+# Finals Task 1: Transform ER into Relational Tables
 For this task, we need to implement the given MySQL statements. Please refer to the screenshot below for the query statements together with the tables.
 ![Sample Output](images/task1.png)
 ![Sample Output](images/task2.png)
