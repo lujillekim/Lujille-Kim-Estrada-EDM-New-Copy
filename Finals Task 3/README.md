@@ -14,4 +14,14 @@
 ![Sample Output](images/alter.png)
 
 # Please refer to the screenshot below for the Table Structures.
+- Table Structure 1
 
+![Sample Output](images/protab.png)
+
+- Table Structure 2
+
+![Sample Output](images/productstablestructure.png)
+
+# Please refer to the screenshot below for the ERR Diagram.
+
+![Sample Output](images/wandiagram.png)
