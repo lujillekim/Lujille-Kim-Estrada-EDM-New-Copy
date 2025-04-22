@@ -15,5 +15,6 @@
 ![Sample Output](images/diagram.png)
 
 - Here's the SQL copy of the database and table structures
+  
 ![Sample Output](images/SQLcode.jpg)
 
