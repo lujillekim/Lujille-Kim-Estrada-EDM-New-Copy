@@ -24,7 +24,7 @@
 # Here's the screenshot for the ERR diagram.
 ![Sample Output](images/diagram.png)
 
-# Here's the SQL copy of the database and table structures
+# Here's the SQL copy of the database and table structures.
   
 ![Sample Output](images/SQLcode.jpg)
 
