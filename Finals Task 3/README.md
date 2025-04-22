@@ -3,7 +3,7 @@
 
 - Query Statement 1 (Creating Table)
   
-![Sample Output](images/productstable.png)
+![Sample Output](images/creatingtable.png)
 
 - Query Statement 2 (Inserting Values)
 
