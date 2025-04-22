@@ -12,3 +12,4 @@ This will serve as my portfolio in Enterprise Data Management, and it will conta
 - Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Midterm%20Task%202)
 - Midterm Lab Task 3: [Creating Pivot Tables and Charts](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Midterm%20Task%203) 
 - Finals Lab Task 1: [Multi Level Company Database](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%201)
+- Finals Lab Task 2: {Transform ER into Relational Tables}(
