@@ -1,4 +1,4 @@
-# Finals Task 1: Transform ER into Relational Tables
+# Finals Task 1: Multi Level Company Database
 - Please refer to the screenshot below for the query statements together with the tables.
 
 ![Sample Output](images/task1.png)
