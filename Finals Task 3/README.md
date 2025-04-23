@@ -25,3 +25,7 @@
 # Please refer to the screenshot below for the ERR Diagram.
 
 ![Sample Output](images/diagram.PNG)
+
+# Please refer to the screenshot below for the SQL Copy of the Database and Table Structure.
+
+![Sample Output](images/productssql.png)
