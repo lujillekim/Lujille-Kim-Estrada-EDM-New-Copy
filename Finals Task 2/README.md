@@ -28,6 +28,6 @@
   
 ![Sample Output](images/task2diagram.png)
 
-# Please refer to the screenshot below for the SQL copy of the database and table structure.
+# Please refer to the screenshot below for the SQL Copy of the Database and Table Structure.
   
 ![Sample Output](images/SQLcode2.png)
