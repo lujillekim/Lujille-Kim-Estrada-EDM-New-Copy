@@ -15,4 +15,5 @@ Midterms
 
 Finals
 - Finals Lab Task 1: [Multi Level Company Database](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%201)
-- Finals Lab Task 2: [Transform ER into Relational Tables](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%202) 
+- Finals Lab Task 2: [Transform ER into Relational Tables](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%202)
+- Finals Lab Task 3: [Table Manipulation](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%203)
