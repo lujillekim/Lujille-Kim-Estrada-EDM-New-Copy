@@ -3,7 +3,7 @@
 
 - Query Statement 1 (Creating Table)
   
-![Sample Output](images/createtable.png)
+![Sample Output](images/createtable.PNG)
 
 - Query Statement 2 (Inserting Values)
 
@@ -24,4 +24,4 @@
 
 # Please refer to the screenshot below for the ERR Diagram.
 
-![Sample Output](images/diagram.png)
+![Sample Output](images/diagram.PNG)
