@@ -24,16 +24,16 @@
 # Please refer to the screenshot below for the Table Structures.
 
 - Table Structure 1
-![Sample Output](images/table(1.1).png)
-![Sample Output](images/table(1.2).png)
-![Sample Output](images/table(1.3).png)
+![Sample Output](images/table(1).jpg)
 
 - Table Structure 2
-![Sample Output](images/table(2).png)
+![Sample Output](images/table(2).jpg)
 
-![Sample Output](images/table(3.1).png)
+- Table Structure 3
+![Sample Output](images/table(3).jpg)
 
+- Table Structure 4
+![Sample Output](images/table(4).jpg)
 
-# Here's the SQL copy of the database and table structures.
-  
-![Sample Output](images/SQLcode.jpg)
+- Table Structure 5
+![Sample Output](images/table(5).jpg)
