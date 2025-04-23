@@ -42,3 +42,6 @@
 - Table Structure 5
   
 ![Sample Output](images/table(5).png)
+
+# Please refer to the screenshot below for the SQL Copy of the Database and Table Structures.
+![Sample Output](images/coursessql.png)
