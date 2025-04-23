@@ -24,16 +24,21 @@
 # Please refer to the screenshot below for the Table Structures.
 
 - Table Structure 1
+- 
 ![Sample Output](images/table(1).png)
 
 - Table Structure 2
+- 
 ![Sample Output](images/table(2).png)
 
 - Table Structure 3
+- 
 ![Sample Output](images/table(3).png)
 
 - Table Structure 4
+- 
 ![Sample Output](images/table(4).png)
 
 - Table Structure 5
+- 
 ![Sample Output](images/table(5).png)
