@@ -5,7 +5,9 @@ This will serve as my portfolio in Enterprise Data Management, and it will conta
   
 ![Sample Output](images/prof.jpg)
 
-*Interests*
+- 🐾 I have a soft spot for both cats and dogs *(they're my fluffy companions)*
+- 📚 I enjoy losing myself in a well-written novel.
+- 🍪 I never say no to a sweet treat, cookies are my weakness.
 
 ## Education 🎓
 - College: City College of Angeles
