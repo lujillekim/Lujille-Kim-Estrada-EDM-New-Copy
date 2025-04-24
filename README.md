@@ -5,6 +5,8 @@ This will serve as my portfolio in Enterprise Data Management, and it will conta
   
 ![Sample Output](images/prof.jpg)
 
+*Interests*
+
 ## Education 🎓
 - College: City College of Angeles
 - Senior High School: Systems Plus College Foundation
