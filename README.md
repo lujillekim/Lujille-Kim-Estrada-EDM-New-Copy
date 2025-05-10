@@ -6,15 +6,8 @@ This will serve as my portfolio in Enterprise Data Management, and it will conta
 ![Sample Output](images/prof.jpg)
 
 *🐾 I have a soft spot for both cats and dogs (they're my fluffy companions)*
-
-![Sample Output](images/catdog.jpg)
-
 *📚 I enjoy losing myself in a well-written novel.*
-
-![Sample Output](images/books.jpg)
 *🍪 I never say no to a sweet treat, cookies are my weakness.*
-
-![Sample Output](images/cookies.jpg)
 
 ## Education 🎓
 - College: City College of Angeles
