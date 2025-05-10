@@ -16,12 +16,12 @@ This will serve as my portfolio in Enterprise Data Management, and it will conta
 
 ## My Projects 📂
 MIDTERMS
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Midterm%20Task%201)
-- Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Midterm%20Task%202)
-- Midterm Lab Task 3: [Creating Pivot Tables and Charts](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Midterm%20Task%203)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Task%201)
+- Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query](Midterm%20Task%202)
+- Midterm Lab Task 3: [Creating Pivot Tables and Charts](Midterm%20Task%203)
 
 FINALS
-- Finals Lab Task 1: [Multi Level Company Database](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%201)
-- Finals Lab Task 2: [Transform ER into Relational Tables](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%202)
-- Finals Lab Task 3: [Table Manipulation](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%203)
-- Finals Lab Task 3-1: [Using Select Clause](https://github.com/lujillekim/Lujille-Kim-Estrada-EDM-New-Copy/blob/main/Finals%20Task%203-1/README.md)
+- Finals Lab Task 1: [Multi Level Company Database](Finals%20Task%201)
+- Finals Lab Task 2: [Transform ER into Relational Tables](Finals%20Task%202)
+- Finals Lab Task 3: [Table Manipulation](Finals%20Task%203)
+- Finals Lab Task 3-1: [Using Select Clause](Finals%20Task%203-1/README.md)
