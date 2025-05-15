@@ -24,18 +24,23 @@
 # Please refer to the screenshot below for the Table Structures.
 
 - Table Structure 1
+  
 ![Sample Output](images/tableuno.png)
 
 - Table Structure 2
+  
 ![Sample Output](images/tabledos.png)
 
 - Table Structure 3
+  
 ![Sample Output](images/tabletres.png)
 
 - Table Structure 4
+
 ![Sample Output](images/tablekwatro.png)
 
 - Table Structure 5
+  
 ![Sample Output](images/tablesingko.png)
 
 # Please refer to the screenshot below for the SQL Copy of the Database and Table Structure.
