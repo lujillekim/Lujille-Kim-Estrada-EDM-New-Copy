@@ -24,4 +24,5 @@ FINALS
 - Finals Lab Task 1: [Multi Level Company Database](Finals%20Task%201)
 - Finals Lab Task 2: [Transform ER into Relational Tables](Finals%20Task%202)
 - Finals Lab Task 3: [Table Manipulation](Finals%20Task%203)
-- Finals Lab Task 3-1: [Using Select Clause](Finals%20Task%203-1/README.md)
+- Finals Lab Task 3-1: [Using Select Clause](Finals%20Task%203-1)
+- Finals Lab Task 5: [Views SP and Functions](Finals%20Task%205)
