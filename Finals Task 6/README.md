@@ -27,7 +27,7 @@
 
 # Update Documents (1-3)
 
-![Sample Output](images/uodate(1).png)
+![Sample Output](images/update(1).png)
 
 ![Sample Output](images/update(2).png)
 
