@@ -7,7 +7,7 @@
   
 ![Sample Output](images/insert(3).png)
 
-# Query/Find Documents (1-8)
+# Query / Find Documents (1-8)
   
 ![Sample Output](images/find.png)
   
